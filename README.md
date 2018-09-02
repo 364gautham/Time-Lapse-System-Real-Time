@@ -8,6 +8,6 @@
 
 -The real-time accuracy of the system is tested for long durations of system running.
 
--OpenCV image difference analysis to capture frames and save image frame with a change in pixel value from a previously captured frame. Linux real-time capabilities – SCHED_FIFO scheduling policy, Linux priority and core affinity services.
+-Linux real-time capabilities – SCHED_FIFO scheduling policy, Linux priority and core affinity services.
 
--Slightly inefficient real-time system which runs at capture rate of 10Hz. It utilises and real time and best effort service mechanisms with circular buffer array of MAT frames.  
+-Slightly inefficient real-time system which runs at capture rate of 10Hz. It utilises real time and best effort service mechanisms with circular buffer array of MAT frames.  
